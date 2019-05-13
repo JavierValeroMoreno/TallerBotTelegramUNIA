@@ -10,5 +10,5 @@ Buenas aqui se detallara lo requerido para la realizacion de este taller
 3º- Un editor de texto / IDE para poder trabajar comodamente 
 
 
-![Cartel del taller](https://raw.githubusercontent.com/JavierValeroMoreno/TallerBotTelegramUNIA/master/Images/Cartel\ taller\ bot.png)
+![Cartel del taller](https://github.com/JavierValeroMoreno/TallerBotTelegramUNIA/blob/master/Images/Cartel%20taller%20bot.png)
 
